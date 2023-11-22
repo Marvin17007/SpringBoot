@@ -1,4 +1,4 @@
-package org.ldv.SpringBootAventure.model
+package org.ldv.SpringBootAventure
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
